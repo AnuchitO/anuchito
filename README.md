@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Haloo, I'm Nong you Can call me AnuchitO for short!👋
+# Haloo, I'm Nong. you Can call me AnuchitO for short!👋
 
 
 ![AnuchitO's github stats](https://github-readme-stats.vercel.app/api?username=AnuchitO&show_icons=true) 
