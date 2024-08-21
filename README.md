@@ -2,6 +2,7 @@
 
 # Haloo, I'm Nong. you Can call me AnuchitO for short!👋
 
+## Motto: Laumcing Programmer
 
 ![AnuchitO's github stats](https://github-readme-stats.vercel.app/api?username=AnuchitO&show_icons=true) 
 
